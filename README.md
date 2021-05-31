@@ -1,6 +1,6 @@
 # back-end-stoom
 
-:information_source: Como Utilizar 
+## :information_source: Como Utilizar: 
 
 Clonar o projeto, e iniciar aplicacao, precisando [Git](https://git-scm.com). linhas de comando:
 
