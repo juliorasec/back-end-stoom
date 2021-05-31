@@ -5,10 +5,10 @@
 Clonar o projeto, e iniciar aplicacao, precisando [Git](https://git-scm.com). linhas de comando:
 
 ```bash
-# Clone this repository
+# Clone do repositório
 $ git clone https://github.com/juliorasec/back-end-stoom.git
 
-# Go into the repository
+# Entre neste repositório
 $ cd back-end-stoom
 
 ```
