@@ -2,6 +2,8 @@
 ## OBS:
 Necessitei de ajuda para subir o código no github, pois a máquina que utilizo(Macbook) estava encontrando erro através do git ao subir o mesmo, então 
 precisei subi-lo em outra máquina.
+erro : ("error: RPC failed; curl 55 SSL_write() returned SYSCALL, errno = 32
+fatal: The remote end hung up unexpectedly")
 
 ## :information_source: Como Utilizar: 
 
