@@ -1,5 +1,19 @@
 # back-end-stoom
 
+:information_source: Como Utilizar 
+
+Clonar o projeto, e iniciar aplicacao, precisando [Git](https://git-scm.com). linhas de comando:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/juliorasec/back-end-stoom.git
+
+# Go into the repository
+$ cd back-end-stoom
+
+```
+
+
 ## Rotas
 
 <blockquote>baseUrl: http://localhost:8080</blockquote>
