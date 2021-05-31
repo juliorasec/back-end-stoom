@@ -4,7 +4,7 @@
 
 <blockquote>baseUrl: http://localhost:8080</blockquote>
 
-## Competidores
+## Address
 
 <p>
   Listar todos os Address (GET)
