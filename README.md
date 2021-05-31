@@ -1,4 +1,7 @@
 # back-end-stoom
+# OBS:
+Necessitei de ajuda para subir o código no github, pois a máquina que utilizo(Macbook) estava encontrando erro ao subir o mesmo, então 
+precisei subi-lo em outra máquina.
 
 ## :information_source: Como Utilizar: 
 
